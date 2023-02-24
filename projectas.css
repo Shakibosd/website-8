@@ -1,0 +1,47 @@
+body {
+ background-color: #F3F1FF;
+}
+.brand-logo {
+ width: 40px;
+}
+.vioo {
+ width: 40px;
+}
+.kkk {
+ color: blue;
+}
+main {
+ max-width: 870px;
+}
+.top-player {
+ background-color: #ffffff;
+ border-radius: 10px;
+}
+.player img{
+ width: 56px;
+}
+.pl-3 {
+ padding-left: 20px;
+}
+.ppp {
+ color: green;
+}
+.ooo {
+ color: springgreen;
+}
+.uuu {
+ width: 150px;
+ border-radius: 10px;
+}
+.rrr {
+ color: red;
+}
+.qqq {
+ color: white;
+ background-color: pink;
+ border-radius: 10px;
+}
+.aaa {
+ text-align: center;
+ color: blueviolet;
+}
